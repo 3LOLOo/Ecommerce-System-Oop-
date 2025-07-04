@@ -32,24 +32,24 @@ A simple object-oriented e-commerce simulation system written in Java.
 ---
 
 ## Project Structure
-```
+```text
 ecommerce-oop/
 ├── src/
-│ └── org/example/
-│ ├── Main.java
-│ ├── models/
-│ │ ├── Product.java
-│ │ ├── Cart.java
-│ │ ├── CartItem.java
-│ │ ├── Customer.java
-│ │ ├── Shippable.java
-│ │ ├── ShippableProduct.java
-│ │ ├── ExpirableProduct.java
-│ │ └── ExpirableShippableProduct.java
-│ └── services/
-│ ├── CheckoutService.java
-│ └── ShippingService.java
+│   └── org/example/
+│       ├── Main.java
+│       ├── models/
+│       │   ├── Product.java
+│       │   ├── Cart.java
+│       │   ├── CartItem.java
+│       │   ├── Customer.java
+│       │   ├── Shippable.java
+│       │   ├── ShippableProduct.java
+│       │   ├── ExpirableProduct.java
+│       │   └── ExpirableShippableProduct.java
+│       └── services/
+│           ├── CheckoutService.java
+│           └── ShippingService.java
 ├── test/
-│ └── org/example/CheckoutScenariosTest.java
+│   └── org/example/CheckoutScenariosTest.java
 └── README.md
 ```
