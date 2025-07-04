@@ -32,6 +32,7 @@ A simple object-oriented e-commerce simulation system written in Java.
 ---
 
 ## Project Structure
+```
 ecommerce-oop/
 ├── src/
 │ └── org/example/
@@ -51,3 +52,4 @@ ecommerce-oop/
 ├── test/
 │ └── org/example/CheckoutScenariosTest.java
 └── README.md
+```
